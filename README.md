@@ -1,4 +1,4 @@
-### Hi there geek colaborators around the world! 👋
+### Hi there! 👋
 
 I'm a Full stack engineer from Argentina. There is always something new to learn, so that's why I am passionate about programming.
 
@@ -9,16 +9,6 @@ I'm a Full stack engineer from Argentina. There is always something new to learn
 
 You can read more about me in my [website](https://www.linkedin.com/in/tomas-aguinaga-482036187/).
 
-
-## &#x1f4c8; My GitHub Stats
-
-<a href="https://github.com/tomas-aguinaga/tomasaguinaga">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tomas-aguinaga&hide=html" alt="Most used languages" />
-</a>
-
-<a href="https://github.com/tomas-aguinaga/tomasaguinaga">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=tomas-aguinaga&show_icons=true&line_height=27&count_private=true" alt="Tomas Aguinaga's GitHub Stats" />
-</a>
 
 ## 📇 Useful Links
 
